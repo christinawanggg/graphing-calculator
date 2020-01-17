@@ -14,3 +14,5 @@ Graphing Functions:
 Calculations
 - Calculating Integrals using the Fundamental Theorem of Calculus
 - Calculating Area under the curves using Riemann Sums with multiple subintervals
+
+Click on gcalc.png to see a visualization of this with a sample function
