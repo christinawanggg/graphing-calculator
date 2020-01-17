@@ -125,7 +125,7 @@ def graph(derivative, x):
                 min_pts_x.append(round(x[i], rounding_number))
                 min_pts_y.append(curr_y)
 
-        # print "(", x[i], ",", prev_y2, ",", curr_y2, ",", next_y2, ")"
+
 
 	# Apply the second derivative with the Same condition as first derivative to capture all the inflection points
         poi = prev_y2 * next_y2
