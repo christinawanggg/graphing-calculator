@@ -1,18 +1,18 @@
-# graphing-calculator
+## Graphing Calculator Project
 
-Python code for a Graphing Calculator
+### Language: Python
 
 Utilizes matplotlib 
 Graphing and Calculation functionalities for polynomials, trigonometry, logs, pi
 
-Graphing Functions:
+#### Graphing Functions:
 - Maximums
 - Minimums
 - Points of Inflection
 - Discontinuities (Holes)
 
-Calculations
+#### Calculations
 - Calculating Integrals using the Fundamental Theorem of Calculus
 - Calculating Area under the curves using Riemann Sums with multiple subintervals
 
-Click on gcalc.png to see a visualization of this with a sample function
+#### Click on gcalc.png to see a visualization of this with a sample function
